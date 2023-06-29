@@ -1,0 +1,209 @@
+1
+Set9_Armorclad      	1
+Set9_Multicaster    	1
+Set9_Preserver      	1
+TFT9_Warwick, TFT9_Galio, TFT9_Teemo, TFT9_Taliyah, TFT9_Taliyah, TFT9_Sett, TFT9_Sett, TFT9_Sion, TFT9_KSante, 
+2
+Set9_Shurima        	2
+Set9_Bruiser        	1
+Set9_Deadeye        	1
+Set9_Freljord       	1
+Set9_Strategist     	1
+TFT9_Renekton, TFT9_Ashe, TFT9_Akshan, TFT9_Sejuani, TFT9_JarvanIV, TFT9_Azir, TFT9_Nasus, TFT9_KSante, 
+3
+Set9_Bruiser        	3
+Set9_Challenger     	1
+Set9_Freljord       	1
+Set9_Void           	1
+TFT9_ChoGath, TFT9_Vi, TFT9_Lissandra, tft9_reksai, TFT9_Sejuani, TFT9_KaiSa, TFT9_Yasuo, TFT9_Sion, 
+4
+Set9_Challenger     	2
+Set9_Shurima        	2
+Set9_Armorclad      	1
+Set9_Strategist     	1
+TFT9_Warwick, TFT9_Akshan, TFT9_KaiSa, TFT9_JarvanIV, TFT9_Yasuo, TFT9_Azir, TFT9_Nasus, TFT9_KSante, 
+5
+Set9_Sorcerer       	4
+Set9_Demacia        	1
+Set9_Multicaster    	1
+Set9_Strategist     	1
+TFT9_Orianna, TFT9_Malzahar, TFT9_Swain, TFT9_Taric, TFT9_Sona, TFT9_VelKoz, TFT9_JarvanIV, TFT9_Lux, TFT9_Ahri, 
+6
+Set9_Wanderer       	3
+Set9_Shurima        	2
+Set9_Strategist     	2
+Set9_Bruiser        	1
+Set9_Noxus          	1
+Set9_Preserver      	1
+TFT9_Renekton, TFT9_Cassiopeia, TFT9_Swain, TFT9_JarvanIV, TFT9_Azir, TFT9_Nasus, TFT9_Sion, TFT9_KSante, TFT9_RyzeNoxus, 
+7
+Set9_Strategist     	3
+Set9_Armorclad      	1
+Set9_Demacia        	1
+Set9_Multicaster    	1
+Set9_Shurima        	1
+Set9_Sorcerer       	1
+TFT9_Teemo, TFT9_Taliyah, TFT9_Swain, TFT9_Garen, TFT9_JarvanIV, TFT9_Azir, TFT9_Lux, TFT9_Nasus, 
+8
+Set9_Strategist     	3
+Set9_Armorclad      	1
+Set9_Demacia        	1
+Set9_Multicaster    	1
+Set9_Shurima        	1
+Set9_Sorcerer       	1
+TFT9_Teemo, TFT9_Taliyah, TFT9_Swain, TFT9_Garen, TFT9_JarvanIV, TFT9_Azir, TFT9_Lux, TFT9_Nasus, 
+9
+Set9_Shurima        	3
+Set9_Strategist     	3
+Set9_Bruiser        	1
+Set9_Multicaster    	1
+TFT9_Renekton, TFT9_Teemo, TFT9_Taliyah, TFT9_Akshan, TFT9_JarvanIV, TFT9_Azir, TFT9_Nasus, TFT9_KSante, TFT9_KSante, 
+10
+Set9_Marksman       	3
+Set9_Redeemer       	3
+Set9_Technogenius   	3
+Set9_BandleCity     	1
+Set9_Bastion        	1
+Set9_ShadowIsles    	1
+Set9_Zaun           	1
+TFT9_Tristana, TFT9_Viego, TFT9_Poppy, TFT9_Maokai, TFT9_Jinx, TFT9_Zeri, TFT9_Senna, TFT9_Senna, TFT9_Heimerdinger, TFT9_HeimerdingerTurret, 
+11
+Set9_Noxus          	3
+Set9_Armorclad      	1
+Set9_Rogue          	1
+Set9_Strategist     	1
+TFT9_Samira, TFT9_Swain, TFT9_Darius, TFT9_Ekko, TFT9_Katarina, TFT9_JarvanIV, TFT9_Nasus, TFT9_Sion, 
+12
+Set9_ShadowIsles    	4
+Set9_Redeemer       	3
+Set9_Bastion        	2
+Set9_Challenger     	1
+Set9_Ionia          	1
+Set9_Preserver      	1
+TFT9_Maokai, TFT9_Kalista, TFT9_Karma, TFT9_Gwen, TFT9_Shen, TFT9_Yasuo, TFT9_Senna, TFT9_KSante, 
+13
+Set9_Preserver      	3
+Set9_Wanderer       	3
+Set9_Bastion        	1
+Set9_Ionia          	1
+Set9_Sorcerer       	1
+Set9_Targon         	1
+TFT9_Galio, TFT9_Soraka, TFT9_Lissandra, TFT9_Karma, TFT9_Taric, TFT9_Shen, TFT9_Ahri, TFT9_RyzeTargon, 
+14
+Set9_Shurima        	2
+Set9_Bruiser        	1
+Set9_Deadeye        	1
+Set9_Freljord       	1
+Set9_Strategist     	1
+TFT9_Renekton, TFT9_Ashe, TFT9_Akshan, TFT9_Sejuani, TFT9_JarvanIV, TFT9_Azir, TFT9_Nasus, TFT9_KSante, 
+15
+Set9_Darkin         	3
+Set9_Empress        	3
+Set9_Technogenius   	3
+Set9_Wanderer       	3
+Set9_Armorclad      	1
+Set9_Bastion        	1
+Set9_Preserver      	1
+Set9_Shurima        	1
+Set9_Strategist     	1
+TFT9_JarvanIV, TFT9_Shen, TFT9_Azir, TFT9_Nasus, TFT9_Aatrox, TFT9_Heimerdinger, TFT9_KSante, TFT9_RyzeBandleCity, TFT9_BelVeth, TFT9_HeimerdingerTurret, 
+16
+Set9_Ionia          	3
+Set9_Challenger     	2
+Set9_Bastion        	1
+Set9_ShadowIsles    	1
+Set9_Slayer         	1
+TFT9_Irelia, TFT9_Sett, TFT9_Kalista, TFT9_Gwen, TFT9_KaiSa, TFT9_Shen, TFT9_Yasuo, TFT9_KSante, 
+17
+Set9_Deadeye        	3
+Set9_Freljord       	3
+Set9_Bastion        	1
+Set9_Bruiser        	1
+Set9_Preserver      	1
+Set9_Targon         	1
+TFT9_Ashe, TFT9_Akshan, TFT9_Lissandra, TFT9_Taric, TFT9_Sejuani, TFT9_Urgot, TFT9_Shen, TFT9_Aphelios, TFT9_Sion, 
+18
+Set9_Darkin         	3
+Set9_Slayer         	3
+Set9_Wanderer       	3
+Set9_Bruiser        	1
+Set9_Challenger     	1
+Set9_ShadowIsles    	1
+TFT9_Kled, TFT9_Kalista, TFT9_Sejuani, TFT9_Gwen, TFT9_KaiSa, TFT9_JarvanIV, TFT9_Aatrox, TFT9_Sion, TFT9_RyzeShurima, 
+19
+Set9_Strategist     	3
+Set9_Armorclad      	1
+Set9_Demacia        	1
+Set9_Multicaster    	1
+Set9_Shurima        	1
+Set9_Sorcerer       	1
+TFT9_Teemo, TFT9_Taliyah, TFT9_Swain, TFT9_Garen, TFT9_JarvanIV, TFT9_Azir, TFT9_Lux, TFT9_Nasus, 
+20
+Set9_Darkin         	3
+Set9_Noxus          	3
+Set9_Armorclad      	2
+Set9_Slayer         	2
+Set9_Shurima        	1
+Set9_Strategist     	1
+TFT9_Cassiopeia, TFT9_Kled, TFT9_Swain, TFT9_Darius, TFT9_Katarina, TFT9_Azir, TFT9_Nasus, TFT9_Aatrox, 
+21
+Set9_Preserver      	3
+Set9_Redeemer       	3
+Set9_Wanderer       	3
+Set9_Bastion        	1
+Set9_Ionia          	1
+Set9_Sorcerer       	1
+Set9_Targon         	1
+TFT9_Galio, TFT9_Soraka, TFT9_Lissandra, TFT9_Karma, TFT9_Taric, TFT9_Shen, TFT9_Ahri, TFT9_Senna, TFT9_RyzeBandleCity, 
+22
+Set9_Marksman       	3
+Set9_Piltover       	3
+Set9_Redeemer       	3
+Set9_Technogenius   	3
+Set9_BandleCity     	1
+Set9_Bastion        	1
+Set9_Rogue          	1
+Set9_ShadowIsles    	1
+Set9_Zaun           	1
+TFT9_Tristana, TFT9_Viego, TFT9_Poppy, TFT9_Maokai, TFT9_Jayce, TFT9_Ekko, TFT9_Zeri, TFT9_Senna, TFT9_Heimerdinger, TFT9_HeimerdingerTurret, TFT9_THex, 
+23
+Set9_Darkin         	3
+Set9_Slayer         	3
+Set9_Armorclad      	1
+Set9_Noxus          	1
+Set9_Rogue          	1
+TFT9_Kayle, TFT9_Kled, TFT9_Zed, TFT9_Darius, TFT9_Katarina, TFT9_Gwen, TFT9_Aatrox, TFT9_Aatrox, 
+24
+Set9_Darkin         	3
+Set9_Noxus          	3
+Set9_Slayer         	2
+Set9_Armorclad      	1
+Set9_Rogue          	1
+TFT9_Samira, TFT9_Cassiopeia, TFT9_Kled, TFT9_Swain, TFT9_Zed, TFT9_Darius, TFT9_Katarina, TFT9_Aatrox, TFT9_KSante, 
+25
+Set9_Shurima        	2
+Set9_Strategist     	2
+Set9_Armorclad      	1
+Set9_Demacia        	1
+Set9_Sorcerer       	1
+TFT9_Swain, TFT9_Akshan, TFT9_Garen, TFT9_JarvanIV, TFT9_Azir, TFT9_Lux, TFT9_Nasus, TFT9_KSante, 
+26
+Set9_Marksman       	3
+Set9_Redeemer       	3
+Set9_Technogenius   	3
+Set9_Bastion        	2
+Set9_BandleCity     	1
+Set9_ShadowIsles    	1
+Set9_Zaun           	1
+TFT9_Tristana, TFT9_Poppy, TFT9_Maokai, TFT9_Jinx, TFT9_Zeri, TFT9_Shen, TFT9_Senna, TFT9_Heimerdinger, TFT9_KSante, TFT9_HeimerdingerTurret, 
+27
+Set9_Multicaster    	3
+Set9_BandleCity     	1
+Set9_Demacia        	1
+Set9_Sorcerer       	1
+Set9_Strategist     	1
+TFT9_Poppy, TFT9_Kled, TFT9_Teemo, TFT9_Taliyah, TFT9_Swain, TFT9_Garen, TFT9_Sona, TFT9_VelKoz, 
+28
+Set9_Shurima        	3
+Set9_Strategist     	1
+TFT9_Renekton, TFT9_Taliyah, TFT9_Akshan, TFT9_JarvanIV, TFT9_Azir, TFT9_Nasus, TFT9_KSante, 
